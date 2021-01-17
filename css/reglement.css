@@ -1,3 +1,29 @@
+body{
+	font-family: 'Roboto', sans-serif;
+	margin: 10px;
+}
+
+h1{
+	text-align: center;
+}
+
+
 ol{
 	list-style: none;
+}
+
+span{
+	padding-right: 8px;
+	font-size: 	20px;
+}
+
+div:hover{
+	background-color: green;
+	color: white;
+	overflow: none;
+}
+
+.titre{
+	color: red;
+
 }
